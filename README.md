@@ -30,6 +30,7 @@
 #### Optimization
 
 - [Ceres Solver](http://ceres-solver.org) - An open source C++ library for modeling and solving large, complicated optimization problems.
+- [OR-Tools](https://developers.google.com/optimization/) - A fast and portable software suite for solving combinatorial optimization problems.
 - [GTSAM](https://bitbucket.org/gtborg/gtsam/) - a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 
 #### Calibration
@@ -83,7 +84,7 @@
 
 ## Resource
 
-#### Practice Code Challenges
+### Practice Code Challenges
 
 - [Google Code Jam](https://code.google.com/codejam/) - An international programming competition hosted and administered by Google
 - [Codility Challenges](https://app.codility.com/programmers/challenges/) - On-line programming challenges hosted and administered by Codility
