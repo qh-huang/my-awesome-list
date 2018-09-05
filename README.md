@@ -37,6 +37,11 @@
 
 - [Kalibr](https://github.com/ethz-asl/kalibr) - A toolbox that solves 1) multi-camera 2) camera-IMU calibration problems.
 
+#### Point Cloud
+
+- [PCL (The Point Cloud Library)](http://pointclouds.org/) - a standalone, large scale, open project for 2D/3D image and point cloud processing.
+- [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics.
+
 #### System & Middleware
 
 - [ROS (Robot Operating System)](http://wiki.ros.org/) - A project providing libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more.
