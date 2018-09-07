@@ -60,6 +60,7 @@
 - [Google FlatBuffers](http://google.github.io/flatbuffers/) - An efficient cross platform serialization library for various languages.
 - [Apache Thrift](http://thrift.apache.org/) - A framework designed for scalable cross-language services development.
 - [Cap’n Proto](https://capnproto.org/) - An insanely fast data interchange format and capability-based RPC system.
+- [MessagePack](https://msgpack.org/) - An efficient binary serialization format.
 
 #### Serialization
 
